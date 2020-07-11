@@ -1,7 +1,6 @@
 # Hi there, how are you? 👋
 
-<!--
-**leooreina/leooreina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Leo and I'd like to share my experiences with you.
 
 ## About me
 
@@ -35,5 +34,3 @@ Peopled web app is my favorite project, I'm trying to give people the option to 
 When the version 1.0.0 released I'll share here.
 
 #### Thank you and keep learning! :beers:
-
--->
