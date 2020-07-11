@@ -26,7 +26,7 @@ to the modern architecture.
 * MongoDB
 * Stylish Components (Sass and CSS)
 * Git
-* Linux
+* Linux command line
 
 #### :octocat: Projects
 
