@@ -15,7 +15,7 @@ I always try to improve my skills doing courses and resolving problems. At the m
 developing mobile apps. Besides that, studying S.O.L.I.D principles, TDD and other design patterns that makes sense
 to the modern architecture.
 
-#### 👯 Skills
+#### :dart: Skills
 
 * Javascript
 * Typescript
