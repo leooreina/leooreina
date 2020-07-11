@@ -19,14 +19,14 @@ to the modern architecture.
 
 * Javascript
 * Typescript
-* AngularJS
-* ReactJS
+* Front-end (React and Angular)
+* Back-end (APIs, NodeJS)
+* Unit Tests (Jest and Jasmine)
+* End to End Tests (Cypress)
 * MongoDB
-* Jest
-* Jasmine
-* SQLServer
-* Sass
-* CSS
+* Stylish Components (Sass and CSS)
+* Git
+* Linux
 
 #### :octocat: Projects
 
