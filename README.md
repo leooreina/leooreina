@@ -4,7 +4,7 @@ My name is Leo and I'd like to share my experiences with you.
 
 ## About me
 
-#### 🔭 Where I am right now
+#### :satellite: Where I am right now
 
 Although I started as a Front-end Dev, I'm currently working as a Full Stack Developer using AngularJS, NodeJS, NestJS and MongoDB,
 but I got to be honest, React is my favorite framework.
@@ -33,4 +33,4 @@ to the modern architecture.
 Peopled web app is my favorite project, I'm trying to give people the option to choose the best entertainment for them.
 When the version 1.0.0 released I'll share here.
 
-#### Thank you and keep learning! :beers:
+#### Thank you and keep learning! :beers: :rocket:
