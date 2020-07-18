@@ -20,6 +20,7 @@ to the modern architecture.
 * Javascript
 * Typescript
 * Front-end (React and Angular)
+* Mobile (React Native)
 * Back-end (APIs, NodeJS)
 * Unit Tests (Jest and Jasmine)
 * End to End Tests (Cypress)
