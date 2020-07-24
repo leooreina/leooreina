@@ -4,6 +4,8 @@ My name is Leo and I'd like to share my experiences with you.
 
 ## About me
 
+https://img.shields.io/github/followers/leooreina?label=Followers&style=social
+
 #### :satellite: Where I am right now
 
 Although I started as a Front-end Dev, I'm currently working as a Full Stack Developer using AngularJS, NodeJS, NestJS and MongoDB,
