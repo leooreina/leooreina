@@ -4,8 +4,7 @@ My name is Leo and I'd like to share my experiences with you.
 
 ## About me
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
-https://img.shields.io/github/followers/leooreina?label=Followers&style=social
+[![GitHub followers](https://img.shields.io/github/followers/leooreina?label=Followers&style=social)](https://github.com/Naereen?tab=followers)
 
 #### :satellite: Where I am right now
 
