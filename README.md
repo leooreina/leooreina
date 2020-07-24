@@ -4,7 +4,7 @@ My name is Leo and I'd like to share my experiences with you.
 
 ## About me
 
-[![GitHub followers](https://img.shields.io/github/followers/leooreina?label=Followers&style=social)](https://github.com/Naereen?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub followers](https://img.shields.io/github/followers/leooreina?label=Followers&style=social)](https://github.com/Naereen?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v39.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 
 #### :satellite: Where I am right now
