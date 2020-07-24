@@ -1,4 +1,4 @@
-# Hi there, how are you? 👋
+# Welcome! How are you Dev? 👋
 
 My name is Leo and I'd like to share my experiences with you.
 
