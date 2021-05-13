@@ -26,10 +26,10 @@ to the modern architecture.
 * Typescript 
 * Front-end (React and Angular)
 * Mobile (React Native)
-* Back-end (APIs, NodeJS)
+* Back-end (APIs, NodeJS, NestJS)
 * Unit Tests (Jest and Jasmine)
 * End to End Tests (Cypress)
-* MongoDB
+* MongoDB e SQLServer
 * Stylish Components (Sass and CSS)
 * Git
 * Linux command line
