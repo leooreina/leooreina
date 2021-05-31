@@ -8,6 +8,8 @@ My name is Leo and I'd like to share my experiences with you.
 
 [![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)](https://github.com/aleen42/badges)        [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](https://github.com/aleen42/badges)        [![React](https://aleen42.github.io/badges/src/react.svg)](https://github.com/aleen42/badges)      [![Node](https://aleen42.github.io/badges/src/node.svg)](https://github.com/aleen42/badges)         [![Jasmine](https://aleen42.github.io/badges/src/jasmine.svg)](https://github.com/aleen42/badges)
 
+![Snake animation](https://github.com/leooreina/leooreina/blob/output/github-contribution-grid-snake.svg)
+
 
 #### :satellite: Where I am right now
 
