@@ -20,8 +20,6 @@ My name is Leo and I'd like to share my experiences with you.
 
 [![GitHub followers](https://img.shields.io/github/followers/leooreina?label=Followers&style=social)](https://github.com/Naereen?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   
 
-[![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)](https://github.com/aleen42/badges)        [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](https://github.com/aleen42/badges)        [![React](https://aleen42.github.io/badges/src/react.svg)](https://github.com/aleen42/badges)      [![Node](https://aleen42.github.io/badges/src/node.svg)](https://github.com/aleen42/badges)         [![Jasmine](https://aleen42.github.io/badges/src/jasmine.svg)](https://github.com/aleen42/badges)
-
 ![Snake animation](https://github.com/leooreina/leooreina/blob/output/github-contribution-grid-snake.svg)
 
 
@@ -50,9 +48,6 @@ to the modern architecture.
 * Git
 * Linux command line
 
-#### :octocat: Projects
-
-Peopled web app is my favorite project, I'm trying to give people the option to choose the best entertainment for them.
-When the version 1.0.0 released I'll share here.
+#### :octocat: 
 
 #### Thank you and keep learning! :beers: :rocket:
