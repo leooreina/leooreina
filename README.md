@@ -42,12 +42,11 @@ My name is Leo and I'd like to share my experiences with you.
 
 #### :satellite: Where I am right now
 
-Although I started as a Front-end Dev, I'm currently working as a Full Stack Developer using AngularJS, NodeJS, NestJS and MongoDB,
-but I got to be honest, React is my favorite framework.
+Although I started as a Front-end Dev, I'm currently working as a Full Stack Developer using AngularJS, NodeJS, NestJS and MongoDB.
 
 #### 🌱 What I am learning at the moment
 
-I always try to improve my skills doing courses and resolving problems. At the moment I'm learning React Native to start
+I always try to improve my skills doing projects and resolving problems. At the moment I'm learning Flutter to start
 developing mobile apps. Besides that, studying S.O.L.I.D principles, TDD and other design patterns that makes sense
 to the modern architecture.
 
@@ -56,7 +55,6 @@ to the modern architecture.
 * Javascript
 * Typescript 
 * Front-end (React and Angular)
-* Mobile (React Native)
 * Back-end (APIs, NodeJS, NestJS)
 * Unit Tests (Jest and Jasmine)
 * End to End Tests (Cypress)
