@@ -30,7 +30,6 @@ My name is Leo and I'd like to share my experiences with you.
   </span>
   <span>
     <img align="center" alt="Leo-Mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Leo-SQLServer" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     <img align="center" alt="Leo-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </span>
 </div>
