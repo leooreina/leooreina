@@ -10,8 +10,8 @@ My name is Leo and I'd like to share my experiences with you.
   
 <div style="display: inline_block"><br>
   <span>
-    <img align="center" alt="Leo-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Leo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Leo-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Leo-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Leo-Ruby" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
     <img align="center" alt="Leo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Leo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,14 +22,17 @@ My name is Leo and I'd like to share my experiences with you.
     <img align="center" alt="Leo-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
     <img align="center" alt="Leo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Leo-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <img align="center" alt="Leo-Rails" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
     <img align="center" alt="Leo-Nest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
     <img align="center" alt="Leo-Jasmine" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain-wordmark.svg">
   </span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>
+    <img align="center" alt="Leo-Nest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  </span>
   <span>
     <img align="center" alt="Leo-Mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Leo-SQLServer" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-    <img align="center" alt="Leo-Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
     <img align="center" alt="Leo-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </span>
 </div>
@@ -41,22 +44,24 @@ My name is Leo and I'd like to share my experiences with you.
 ![Snake animation](https://github.com/leooreina/leooreina/blob/output/github-contribution-grid-snake.svg)
 
 
-#### :satellite: Where I am right now
+#### :satellite: My background
 
-Although I started as a Front-end Dev, I'm currently working as a Full Stack Developer using AngularJS, NodeJS, NestJS and MongoDB.
+Although I started as a front-end dev, in 2019 I've decided to looking for new challenges in back-end either.
+I spend almost 2 years and a half working as a Full Stack Developer using stacks like NodeJS, NestJS, Angular, SQL Server and MongoDB.
+It was a great learning experience and make me understand many steps of a Software's Engineer job.
 
 #### 🌱 What I am learning at the moment
 
-I always try to improve my skills doing projects and resolving problems. At the moment I'm learning Flutter to start
-developing mobile apps. Besides that, studying S.O.L.I.D principles, TDD and other design patterns that makes sense
-to the modern architecture.
+Nowadays I'm currently attending Le Wagon's Bootcamp to learn Ruby on Rails and other skills. Besides that, I've been working on a Flutter project to learn a little more about Mobile development.
 
 #### :dart: Skills
 
 * Javascript
-* Typescript 
+* Typescript
+* Ruby
 * Front-end (React and Angular)
-* Back-end (APIs, NodeJS, NestJS)
+* Back-end (NodeJS, NestJS, Ruby on Rails)
+* Mobile (Flutter)
 * Unit Tests (Jest and Jasmine)
 * End to End Tests (Cypress)
 * MongoDB e SQLServer
