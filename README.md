@@ -33,27 +33,25 @@ My name is Leo and I'd like to share my experiences with you.
 #### :satellite: My background
 
 Although I started as a front-end dev, in 2019 I've decided to looking for new challenges in back-end either.
-I spend almost 2 years and a half working as a Full Stack Developer using stacks like NodeJS, NestJS, Angular, SQL Server and MongoDB.
-It was a great learning experience and make me understand many steps of a Software's Engineer job.
+Now i'm a Full Stack Developer with 3+ years of experience in Javascript and Typescript. I spent the last 6 months working remotely for US (my organization profile used to be: [@leomyalloy](https://github.com/leomyalloy)) and i've learned a lot about the startup environment and how to communicate better in english, which isn't my first language.
+I also have a [Turing](https://matching.turing.com/developer-resume/cbc42dccb1cd395335e6f670df57ea329813a0360148b0) profile with my complete previous experience.
 
 #### 🌱 What I am learning at the moment
 
-Nowadays I'm currently attending Le Wagon's Bootcamp to learn Ruby on Rails and other skills. Besides that, I've been working on a Flutter project to learn a little more about Mobile development.
+Right now my main goal is to develop my React skills (and FE in general) since my last 2 jobs were more BE "heavy".
 
 #### :dart: Skills
 
 * Javascript
 * Typescript
-* Ruby
+* Ruby on Rails
 * Front-end (React and Angular)
-* Back-end (NodeJS, NestJS, Ruby on Rails)
-* Mobile (Flutter)
-* Unit Tests (Jest and Jasmine)
+* Back-end (NodeJS, NestJS)
+* DB (Postgres and MongoDB)
+* Unit Tests (Jest, Jasmine, Sinon)
 * End to End Tests (Cypress)
-* MongoDB e SQLServer
 * Stylish Components (Sass and CSS)
 * Git
-* Linux command line
 
 #### :octocat: 
 
