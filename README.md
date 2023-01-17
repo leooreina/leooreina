@@ -34,7 +34,7 @@ My name is Leo and I'd like to share my experiences with you.
 
 Although I started as a front-end dev, in 2019 I've decided to looking for new challenges in back-end either.
 Now i'm a Full Stack Developer with 3+ years of experience in Javascript and Typescript. I spent the last 6 months working remotely for US (my organization profile used to be: [@leomyalloy](https://github.com/leomyalloy)) and i've learned a lot about the startup environment and how to communicate better in english, which isn't my first language.
-I also have a [Turing](https://matching.turing.com/developer-resume/cbc42dccb1cd395335e6f670df57ea329813a0360148b0) profile with my complete previous experience.
+I also have a [Turing](https://matching.turing.com/developer-resume/cbc42dccb1cd395335e6f670df57ea329813a0360148b0) profile with my complete previous experience. In case you don't know turing's platform, here is their website: [turing.com](https://www.turing.com/)
 
 #### 🌱 What I am learning at the moment
 
