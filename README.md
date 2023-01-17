@@ -2,11 +2,9 @@
 
 My name is Leo and I'd like to share my experiences with you.
 
-<div>
-  <a href="https://github.com/leooreina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leooreina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooreina&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+![Leooreina's GitHub stats](https://github-readme-stats.vercel.app/api?username=leooreina&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leooreina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <span>
@@ -22,15 +20,6 @@ My name is Leo and I'd like to share my experiences with you.
     <img align="center" alt="Leo-Nest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
     <img align="center" alt="Leo-Ruby" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
     <img align="center" alt="Leo-Rails" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
-    <img align="center" alt="Leo-Jasmine" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain-wordmark.svg">
-    <img align="center" alt="Leo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </span>
-  <span>
-    <img align="center" alt="Leo-Nest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  </span>
-  <span>
-    <img align="center" alt="Leo-Mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Leo-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </span>
 </div>
 
